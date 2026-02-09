@@ -1,0 +1,30 @@
+
+public class UsoConstantes {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		
+		int a=2;
+		
+		final int b=3;
+		
+		a=5;
+		
+		System.out.println(a);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

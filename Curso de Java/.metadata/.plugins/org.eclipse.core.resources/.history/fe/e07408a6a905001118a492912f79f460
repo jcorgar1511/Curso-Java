@@ -1,0 +1,16 @@
+
+public class UsoVariables {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int edad=19;
+		
+		String nombre="Juan tiene ";
+				
+		System.out.println(nombre + edad);
+				
+				
+	}
+
+}
